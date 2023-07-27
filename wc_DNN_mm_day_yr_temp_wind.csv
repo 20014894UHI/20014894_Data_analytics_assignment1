@@ -1,4 +1,4 @@
-"","Apr","Aug","Dec","Feb","Jan","Jul","Jun","Mar","May","Nov","Oct","Sep","Fri","Mon","Sat","Sun","Thur","Tue","Wed","year","temperature","wind_speed","scaledCollisions","wc2021to2023_n_merged2.num_collisions"
+"","Apr","Aug","Dec","Feb","Jan","Jul","Jun","Mar","May","Nov","Oct","Sep","Fri","Mon","Sat","Sun","Thur","Tue","Wed","year","temperature","wind_speed","scaledCollisions","num_collisions"
 "1",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2021,2.5,4.4,0.357843137254902,257
 "2",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2021,5.3,6.2,0.176470588235294,220
 "3",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2021,3.2,5.3,0.284313725490196,242
